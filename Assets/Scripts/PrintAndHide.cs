@@ -5,7 +5,7 @@ using UnityEngine;
 public class PrintAndHide : MonoBehaviour
 { 
     private int i = 3;
-    public Renderer end;
+    public Renderer rend;
 
     // Start is called before the first frame update
     void Start()
